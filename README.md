@@ -12,9 +12,10 @@ git clone https://github.com/faisalijaz/social-app.git
 ### Prerequisites
 
 - PHP 7.3^ - 8.0^
+- Database MySQL
 - LAMPP, XAMPP or MAMP
 - Composer
-- Laravel 5.8
+- Laravel 8
 
 ## Installing
 
